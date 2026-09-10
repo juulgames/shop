@@ -1,0 +1,6 @@
+{
+  "name": "Juuls 3D Express",
+  "description": "Custom 3D printed figures, articulated dragons, desk accessories, and maker goods with instant checkout.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
